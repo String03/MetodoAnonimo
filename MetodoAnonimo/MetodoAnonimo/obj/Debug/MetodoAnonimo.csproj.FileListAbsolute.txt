@@ -1,0 +1,8 @@
+C:\Users\fvg\source\MetodoAnonimo\MetodoAnonimo\bin\Debug\MetodoAnonimo.exe.config
+C:\Users\fvg\source\MetodoAnonimo\MetodoAnonimo\bin\Debug\MetodoAnonimo.exe
+C:\Users\fvg\source\MetodoAnonimo\MetodoAnonimo\bin\Debug\MetodoAnonimo.pdb
+C:\Users\fvg\source\MetodoAnonimo\MetodoAnonimo\obj\Debug\MetodoAnonimo.csproj.AssemblyReference.cache
+C:\Users\fvg\source\MetodoAnonimo\MetodoAnonimo\obj\Debug\MetodoAnonimo.csproj.SuggestedBindingRedirects.cache
+C:\Users\fvg\source\MetodoAnonimo\MetodoAnonimo\obj\Debug\MetodoAnonimo.csproj.CoreCompileInputs.cache
+C:\Users\fvg\source\MetodoAnonimo\MetodoAnonimo\obj\Debug\MetodoAnonimo.exe
+C:\Users\fvg\source\MetodoAnonimo\MetodoAnonimo\obj\Debug\MetodoAnonimo.pdb
